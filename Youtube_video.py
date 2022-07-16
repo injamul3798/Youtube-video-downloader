@@ -1,3 +1,6 @@
+#Install pacakge 
+#pip install pytube
+
 #import library
 import pytube
 
